@@ -75,5 +75,4 @@ public class DemoTest {
 	        assertEquals(consoleOutput, out.toString());
 	    }
 	*/
-
 }
